@@ -1,0 +1,35 @@
+
+body {
+  background-color: #caf;
+  color: #fbfbfb;
+  font-family: Helvetica, sans-serif;
+  margin: 0px;
+  display: grid;
+  justify-items: center;
+  margin-top: 3rem;
+  background-image: url(img/elsa-frozen-disney-02.png);
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+.texto {
+  width: 800px;
+  font-size: 19px;
+  line-height: 1.6rem;
+  text-shadow: 1px 1px 3px black;
+}
+
+a {
+  text-decoration: none;
+  background-color: #f7f7f7;
+  color: #000;
+  padding: 6px 14px;
+  margin-bottom: 20px;
+  text-shadow: 0px 0px 0px;
+}
+
+a:hover{
+  border: 2px solid #fbfbfb;
+  background-color: #caf;
+  color: white;
+}
